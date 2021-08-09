@@ -1,0 +1,7 @@
+[HTTP]
+LOGS=logs
+
+[HTTPS]
+ServerCertFile=config/certs/tNode_HTTPS.crt
+ServerKeyFile=config/certs/tNode_HTTPS.key
+LOGS=logs
